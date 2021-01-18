@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace OdeToFood1
+namespace OdeToFood
 {
     public class Program
     {
